@@ -1,17 +1,17 @@
 # site settings
-title: Stephen Hung - Title
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Stephen Hung 
+subtitle: Software Engineer and Eternal Student
+email: hung.stephen.yh@gmail.com
+description: A Portfolio, Resume, and Blog.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://stphnhng.github.io/" # the base hostname & protocol for your site
 author: Stephen Hung
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address:
+city: Bay Area
+state: CA
+zip_code: 
 country: United States of America
-phone: (716) 555-5555
+phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -20,14 +20,14 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+github_url: https://github.com/stphnhng
+gitlab_url: 
+googleplus_url: 
+instagram_url: https://www.instagram.com/stphnhung/
+linkedin_url: https://www.linkedin.com/in/stephen-hung
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url:
 
 # build settings
 markdown: kramdown
