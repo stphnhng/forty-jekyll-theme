@@ -1,6 +1,6 @@
 # site settings
 title: Stephen Hung 
-subtitle: Software Engineer and Eternal Student
+subtitle: Software Engineer and Student
 email: hung.stephen.yh@gmail.com
 description: A Portfolio, Resume, and Blog.
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -15,7 +15,7 @@ phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 3
 
 # social settings
 500px_url:
